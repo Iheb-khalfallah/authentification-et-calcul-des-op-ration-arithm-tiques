@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP1IHEB</string>
+    <string name="mytext">Welcome to my first Android application</string>
+    <string name="mynewtext1">Login</string>
+    <string name="mynewtext2">Password</string>
+    <string name="mynewtext3">Enter Your Password</string>
+    <string name="mynewtext4">Enter Your Login</string>
+    <string name="mynewtext5">Sign In</string>
+    <string name="mynewtext6">Update Date and Time</string>
+</resources>
